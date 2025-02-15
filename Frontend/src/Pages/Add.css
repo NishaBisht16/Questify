@@ -1,0 +1,27 @@
+.formdata{
+   
+    padding: 60px;
+    
+}
+ .formdata label{
+    margin-bottom: 20px;
+}
+.formInput{
+    margin:20px 0;
+    display: flex;
+}
+select{
+     padding: 15px;
+    text-align: center;
+    align-content: center;
+    margin: 20px;
+    border-radius: 5px;
+
+}
+
+.answer{
+    display: flex;
+    gap: 5px;
+}
+
+

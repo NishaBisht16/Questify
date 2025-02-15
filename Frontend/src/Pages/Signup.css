@@ -1,0 +1,59 @@
+
+.signupcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 800px;
+    box-shadow: 3px 3px 5px #00000036;
+
+
+
+}
+.inputs{
+    height: 600px;
+    width: 800px;
+    border-radius: 10px;
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    margin: 40px 0;
+    flex-wrap: wrap;
+    gap: 5px;
+    
+   
+}
+.element{
+    width: 40%;
+}
+.element p{
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    align-items: center;
+    padding: 10px;
+}
+.element .error{
+    color: red;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 25px;
+    font-weight: 700;
+}
+
+.stylebutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
